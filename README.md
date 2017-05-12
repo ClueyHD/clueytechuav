@@ -10,7 +10,7 @@ yes/maybe/no
 Drop stuff out of planes
 
 ## Timeline
-26 July - Registration Closes
+26 July - Registration Closes br/
 23 August - Report/Video Submission Due
 26/27 September - Competition Date
 
